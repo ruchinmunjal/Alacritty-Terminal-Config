@@ -17,18 +17,18 @@ scrolling:
 
 font:
   normal:
-    family: JetBrains Mono
+    family: Cascadia Code PL
     style: Medium
   bold:
-    family: Jetbrains Mono
+    family: Cascadia Code PL
     style: Bold
   italic:
-    family: Jetbrains Mono
+    family: Cascadia Code PL
     style: MediumItalic
   bold_italic:
-    family: JetBrains Mono
+    family: Cascadia Code PL
     style: BoldItalic
-  size: 8
+  size: 12
 draw_bold_text_with_bright_colors: true
 
 colors:
