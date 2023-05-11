@@ -60,6 +60,8 @@ colors:
 transparent_background_colors: true
 
 cursor:
-  style: Beam
-  thickness: 0.3
+  style: 
+    shape: 'Underline'
+    blinking: 'On'
+  thickness: 0.5
 
